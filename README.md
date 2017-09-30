@@ -1,0 +1,2 @@
+# WikidataTestForSenkyo
+選挙関連データのWikidata化のテストデータ
